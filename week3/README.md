@@ -2,7 +2,7 @@
 
 <h1>Question 1</h1>
 
-Find moving average
+**Find moving average**
 
 In this question, you have to output the "two moving average" of a sequence of non-negative numbers.
 
@@ -27,8 +27,8 @@ Hint : Use the format specifier "%.1f" inside printf.
 
 <h1>Question 2</h1>
 
-Due on 2024-02-15, 23:59 IST
-Prime Checking
+
+**Prime Checking**
 
 Complete the function int is_prime(int n) to check if a positive number n is prime or not.
 
@@ -45,12 +45,14 @@ Output
 ---------
 The elements in the input list which are primes, in the original order.
 
-Find the kth Odd integer in sequence
+<h1>Question 3</h1>
+
+**Find the kth Odd integer in sequence**
 
 Write a C function to find the kth occurrence of an odd integer in a sequence of non-
 negative integers.
 
-<h1>Question 3</h1>
+
 
 
 Input
