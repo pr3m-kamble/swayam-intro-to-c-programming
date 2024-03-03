@@ -4,19 +4,19 @@
 **Write a program to print "Hello C".
 **Note: The output checking is Case sensitive.
 
-#question 1
+#question 2
 **Problem Statement
 -Write a program to print the sum of two integers a and b
 
-**Input
+**Input**
 -Two integers a and b.
 
-**Output
+**Output**
 -The sum of a and b.
 
-**Sample input 
+**Sample input** 
 2 3
-**Sample output
+**Sample output**
 5
 
 
