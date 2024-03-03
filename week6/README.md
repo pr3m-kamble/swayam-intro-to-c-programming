@@ -9,9 +9,9 @@ Given an n×n integer Matrix A and an positive number ℓ such that 2ℓ+1≤n, 
 To get the  ℓ-window smoothing of A , we replace A[i][j] with the sum of the values of the imaginary submatrix S of A with centre at A[i][j], and having size 2ℓ+1×2ℓ+1
 
 
-More precisely, the smoothed matrix B[i,j] = $\left( \sum_{k=1}^n a_k b_k \right)   \sum_{n=1}^n  A[u][v]$ 
+More precisely, the smoothed matrix B[i,j] = $(\sum_{u=il}^ih)    \sum_{v=ij}^jh      A[u][v]$ 
 
-where il=max(i−ℓ,0),ih=min(i+ℓ,n−1),jl=max(j−ℓ,0),jh=min(j+ℓ,n−1).
+where il=max(i−ℓ,0), ih=min(i+ℓ,n−1), jl=max(j−ℓ,0), jh=min(j+ℓ,n−1).
 
 **Input**
 
