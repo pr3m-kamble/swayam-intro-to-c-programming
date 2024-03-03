@@ -65,7 +65,6 @@ Output
 
 The solutions to x and y.
 
-<h1>Question 3</h1>
 
 
 
