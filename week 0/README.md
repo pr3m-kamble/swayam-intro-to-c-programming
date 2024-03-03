@@ -2,13 +2,13 @@
 
 <h1>question 1</h1>
 
-**Write a program to print "Hello C".
+Write a program to print "Hello C".
 
-**Note: The output checking is Case sensitive.
+**Note:** The output checking is Case sensitive.
 
 <h1>question 2</h1>
 
-**Problem Statement
+**Problem Statement**
 
 -Write a program to print the sum of two integers a and b
 
