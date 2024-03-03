@@ -30,17 +30,49 @@ The smoothed matrix of A
 **Simple Path Finding**
 
 Given an n×n binary Matrix A , where each entry is 0 or 1.
+
 A has a unique path of 1's from  A[0][0] to A[n-1][n-1].
+
 The path always goes Right (R) or Down (D).
 
 Write a C Program.to print the directions of this path.
 
 Note: You can assume that there is exactly one correct path.
+
 All 1's in A are in this unique path, there are no dead ends.
 
 **Input**
+
+The first line contains the dimension of the matrix n. Assume n < 100.
+
+The second line contains the contents of the matrix A, each row per line.
+
+
+**Output**
+
+The path of 1's in the Matrix.
+
+<h1>Question 3</h1>
+
+**Recursive Path Finding**
+
+Given an n×n binary Matrix A , where each entry is 0 or 1.
+A has a unique path of 1's from  A[0][0] to A[n-1][n-1].
+The path can go Right (R) Left (R)  Down (D) or Up (U).
+
+Write a C Program.to print the directions of this path.
+
+Note: You can assume that there is exactly one correct path.
+All 1's in A need not be in this unique path, there can be dead ends.
+
+**Input**
+
 The first line contains the dimension of the matrix n. Assume n < 100.
 The second line contains the contents of the matrix A, each row per line.
 
 **Output**
+
 The path of 1's in the Matrix.
+
+
+
