@@ -47,7 +47,7 @@ The elements in the input list which are primes, in the original order.
 
 <h1>Question 3</h1>
 
-**Find the kth Odd integer in sequence**
+**Find the $kth$ Odd integer in sequence**
 
 Write a C function to find the kth occurrence of an odd integer in a sequence of non-
 negative integers.
